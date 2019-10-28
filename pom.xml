@@ -162,7 +162,7 @@
     </pluginManagement>
   </build>
 
-<distributionManagement>
+  <distributionManagement>
     <snapshotRepository>
       <id>nexus-snapshots</id>
       <url>http://10.118.131.180:8081/repository/maven-snap/</url>
@@ -172,7 +172,7 @@
       <url>http://10.118.131.180:8081/repository/maven-release/</url>
     </repository>
   </distributionManagement>
-</project>
+  </project>
 
 
   <dependencyManagement>
