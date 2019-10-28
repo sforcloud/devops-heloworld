@@ -172,7 +172,7 @@
       <url>http://10.118.131.180:8081/repository/maven-release/</url>
     </repository>
   </distributionManagement>
-  </project>
+
 
 
   <dependencyManagement>
